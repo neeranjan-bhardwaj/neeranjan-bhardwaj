@@ -38,7 +38,7 @@ Hi there! 👋 I’m **Neeranjan Bhardwaj**, a passionate **Full-Stack Developer
 ---
 
 ## 📚 **What I'm Learning**  
-- Advanced **JavaScript** concepts and **DSA** for optimized coding.  
+-**DSA** for optimized coding.  
 - **Robotics** to explore innovative technologies and their applications.  
 - Learning **Java** for backend, DSA, and Android development.  
 - Finishing **React Native** and **Expo** app development and creating projects for them.  
