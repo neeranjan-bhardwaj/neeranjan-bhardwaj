@@ -38,7 +38,7 @@ Hi there! 👋 I’m **Neeranjan Bhardwaj**, a passionate **Full-Stack Developer
 ---
 
 ## 📚 **What I'm Learning**  
--**DSA** for optimized coding.  
+- **DSA** for optimized coding.  
 - **Robotics** to explore innovative technologies and their applications.  
 - Learning **Java** for backend, DSA, and Android development.  
 - Finishing **React Native** and **Expo** app development and creating projects for them.  
@@ -46,9 +46,9 @@ Hi there! 👋 I’m **Neeranjan Bhardwaj**, a passionate **Full-Stack Developer
 ---
 
 ## 📩 **Get in Touch**  
-📧 Email: [neeranjan.bhardwaj@example.com](mailto:neeranjan.bhardwaj@example.com)  
-🌐 Portfolio: [neeranjanbhardwaj.dev](https://neeranjanbhardwaj.dev)  
-🔗 LinkedIn: [linkedin.com/in/neeranjanbhardwaj](https://linkedin.com/in/neeranjanbhardwaj)  
+📧 Email: [neeranjanbhagrdwaj@gmail.com](mailto:neeranjanbhardwaj@gmail.com)  
+🌐 Portfolio: [Neeranjan-Bhardwaj-Protfolio](https://portfolio-neeranjan-bhardwajs-projects.vercel.app/)  
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/neeranjan-bhardwaj-06621b27a/)  
 
 ---
 
