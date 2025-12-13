@@ -1,9 +1,6 @@
 <br clear="both">
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXp6ajkwMWhldGNmaW9kM2swY2hma3lrazV5ZGs1ZDhlM28zcXY2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HLB0nLA36GCCo6JuB5/giphy.gif"  />
-
-###
-
 <h1 align="left">💫 About Me:</h1>
 
 <p align="left">🌱 I’m currently learning Artificial and Machine Learning, Robotics with ESP32 and ESP8366, Ardion uno and nano<br>💬 Ask me about React ,Linux ,JavaScript ,NextJS<br>👨‍💻 All of my projects are available at https://portfolio-five-smoky-39.vercel.app/<br>📫 How to reach me Neeranjan5116@gmail.com<br>⚡ Fun fact I use linux by the way</p>
@@ -92,6 +89,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
-
-###
-![pacman contribution graph](https://raw.githubusercontent.com/neeranjan-bhardwaj/neeranjan-bhardwaj/output/pacman-contribution-graph.svg)
