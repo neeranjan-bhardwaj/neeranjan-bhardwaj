@@ -6,8 +6,6 @@
 
 <h1 align="left">💫 About Me:</h1>
 
-###
-
 <p align="left">🌱 I’m currently learning Artificial and Machine Learning, Robotics with ESP32 and ESP8366, Ardion uno and nano<br>💬 Ask me about React ,Linux ,JavaScript ,NextJS<br>👨‍💻 All of my projects are available at https://portfolio-five-smoky-39.vercel.app/<br>📫 How to reach me Neeranjan5116@gmail.com<br>⚡ Fun fact I use linux by the way</p>
 
 ###
@@ -96,8 +94,4 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neeranjan-bhardwaj/neeranjan-bhardwaj/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neeranjan-bhardwaj/neeranjan-bhardwaj/output/pacman-contribution-graph.svg">
-</picture>
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neeranjan-bhardwaj/neeranjan-bhardwaj/output/pacman-contribution-graph.svg">
