@@ -81,7 +81,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:neeranjan-bhardwaj?theme=capoo-2&padding=4&offset=-1&scale=0.7&align=top&pixelated=0&darkmode=1"  />
+  <img src="https://count.getloli.com/@:neeranjan-bhardwaj?theme=capoo-2&padding=4&offset=-1&scale=0.7&align=top&pixelated=0&darkmode=auto"  />
 </div>
 
 ###
@@ -102,5 +102,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neeranjan-bhardwaj/neeranjan-bhardwaj/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neeranjan-bhardwaj/neeranjan-bhardwaj/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/neeranjan-bhardwaj/neeranjan-bhardwaj/output/snake.svg" alt="Snake animation" />
 
 ###
