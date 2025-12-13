@@ -94,4 +94,4 @@
 </div>
 
 ###
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neeranjan-bhardwaj/neeranjan-bhardwaj/output/pacman-contribution-graph.svg">
+![pacman contribution graph](https://raw.githubusercontent.com/neeranjan-bhardwaj/neeranjan-bhardwaj/output/pacman-contribution-graph.svg)
