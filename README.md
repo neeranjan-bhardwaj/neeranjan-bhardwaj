@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Artificial and Machine Learning, Robotics with ESP32 and ESP8366, Ardion uno and nano<br>💬 Ask me about React ,Linux ,JavaScript ,NextJS<br>👨‍💻 All of my projects are available at https://portfolio-five-smoky-39.vercel.app/<br>📫 How to reach me Neeranjan5116@gmail.com<br>⚡ Fun fact I use linux by the way</p>
+<p align="left">🌱 I’m currently learning Artificial and Machine Learning, Robotics with Arduino, ESP <br>💬 Ask me about React ,Linux ,JavaScript ,NextJS<br>👨‍💻 All of my projects are available at <a href="https://portfolio-neeranjan-bhardwajs-projects.vercel.app/"> Potfolio </a><br>📫 How to reach me Neeranjan5116@gmail.com<br>⚡ Fun fact I use Arch by the way</p>
 
 ###
 
@@ -43,15 +43,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
@@ -63,15 +57,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
@@ -84,7 +70,7 @@
 
 ###
 
-<h1 align="left">😭 Social Media:</h1>
+<h1 align="left">Social Media:</h1>
 
 ###
 
@@ -93,7 +79,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
+<!-- ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neeranjan-bhardwaj/neeranjan-bhardwaj/output/pacman-contribution-graph-dark.svg">
@@ -105,4 +91,4 @@
 
 <img src="https://raw.githubusercontent.com/neeranjan-bhardwaj/neeranjan-bhardwaj/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
